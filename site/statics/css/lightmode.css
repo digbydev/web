@@ -1,0 +1,16 @@
+a:link, a:visited, body {
+    background-color: white;
+    color: black;
+}
+
+/* Light mode is default, so no selector here. */
+/* @media (prefers-color-scheme: light) { */
+    a:link, a:visited, body {
+        background-color: white;
+        color: black;
+    }
+
+    .dark {
+        display: none;
+    }
+/* } */

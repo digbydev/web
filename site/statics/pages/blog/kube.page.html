@@ -1,0 +1,91 @@
+<div data-title="Build a Kubernetes">
+    <h2>How to build a Kubernetes</h2>
+    <p>
+        Welcome to my series on how to build a "Kubernetes" (i.e. a container orchestration platform).
+        The purpose of this series is to teach developers critical elements of writing distributed systems.
+    </p>
+    <div>
+        <h3>What is a container orchestrator?</h3>
+        <p>
+            A container orchestrator is a system that maintains an understanding of what containers the end-user would
+            like running, and distributes the execution of those containers accross one or more computers.
+        </p>
+        <p>
+            The criteria container orchestrators use to decide on which computer it should execute a container varies,
+            but typically
+            consists of at least CPU and Memory constraints.
+        </p>
+    </div>
+    <div>
+        <h3>Why build a container orchestrator?</h3>
+        <p>
+            If you're here to learn how to build a better Kubernetes, you're probably here for the wrong reasons.
+            Kubernetes is a solid, well supported, and nearly universally adopted platform.
+            To compete with that your idea has to be leaps and bounds ahead.
+        </p>
+        <p>
+            There are two reasons I chose to build a container orchestrator for this series:
+        <ol>
+            <li>
+                I believe any distributed systems developer should have a cursory understanding of how they work.
+            </li>
+            <li>
+                Container orchestrators model virtually every concept required to build a reliable distributed system.
+            </li>
+        </ol>
+        </p>
+    </div>
+    <div>
+        <h3>What components will we build in this series?</h3>
+        <p>
+            The following components are the bare minimum to achieve what I would call a fully functional "container
+            orchestrator":
+        </p>
+        <ul>
+            <li>
+                <a href="#container-executive">Container Executive</a>
+            </li>
+            <li>
+                <a href="#api-server">API Server</a>
+            </li>
+            <li>
+                <a href="#cli">CLI</a>
+            </li>
+            <li>
+                <a href="#state-storage">State Storage</a>
+            </li>
+            <li>
+                <a href="#overlay-network">Overlay network</a>
+            </li>
+            <li>
+                <a href="#ingress">Ingress</a>
+            </li>
+        </ul>
+        <h4><a id="container-executive">Container Executive</a></h4>
+        <p>
+            A program that interacts with the container runtime (e.g. Docker) to download, launch, and maintain the
+            state of containers expected to be running on an individual computer.
+        </p>
+        <h4><a id="api-server">API Server</a></h4>
+        <p>
+            A program that receives commands sent by the end-user with the intention of establishing the desired state
+            for the system.
+        </p>
+        <h4><a id="cli">CLI</a></h4>
+        <p>
+            A command line interface to simplify interaction with the API.
+        </p>
+        <h4><a id="state-storage">State Storage</a></h4>
+        <p>
+            A highly available system for storing the desired state of the container orchestration platform.
+        </p>
+        <h4><a id="overlay-network">Overlay network</a></h4>
+        <p>
+            A virtual network for connecting containers based on routing rules specified by the end-user.
+        </p>
+        <h4><a id="ingress">Ingress</a></h4>
+        <p>
+            A gateway between the network outside and the overlay network.
+        </p>
+    </div>
+</div>

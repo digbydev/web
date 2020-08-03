@@ -1,0 +1,79 @@
+@import "lightmode.css";
+@import "darkmode.css";
+
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-sizing: border-box;
+}
+
+header {
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+header h1 {
+    padding-left: 0.25em;
+}
+
+.logo {
+    float: left;
+    width: 200px;
+    height: 200px;
+}
+
+#contents {
+    display: flex;
+    height: 100%;
+}
+
+main {
+    flex: 1;
+    padding: 0em .25em 0.25em 0.25em;
+}
+
+menu {
+    width: 200px;
+    margin: 0.25em;
+    padding: 0;
+}
+
+menu ul {
+    list-style-type: none;
+    margin: 5px;
+    padding: 5px;
+}
+
+menu li:not(:first-child) {
+    margin-top: 0.5em;
+}
+
+menu li a:hover {
+    background-color: darkmagenta;
+}
+
+footer {
+    width: 100%;
+    float: left;
+}
+
+a:link, a:visited {
+    font-style: normal;
+}
+
+@media only screen and (max-width: 768px) {
+    #contents {
+        flex-direction: column;
+    }
+    /* For mobile phones: */
+    menu, main {
+        width: 100%;
+    }
+    menu li {
+        display: inline;
+    }
+    menu li:not(:last-child)::after {
+        content: "|";
+        margin: 0 .25em;
+    }
+}

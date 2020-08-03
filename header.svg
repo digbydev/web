@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="417.75092"
+   inkscape:export-xdpi="417.75092"
+   inkscape:export-filename="\\wsl$\Ubuntu\home\evan\digbydev\evan.digby.dev\digbydevlogo.png"
+   width="2560"
+   height="1440"
+   viewBox="0 0 677.33333 381"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="header.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     units="px"
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.33291029"
+     inkscape:cx="1586.6428"
+     inkscape:cy="731.03454"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       transform="scale(1.0509094,0.95155682)"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.1266px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.403162"
+       x="42.064835"
+       y="20.615065"
+       id="text12-7"><tspan
+         sodipodi:role="line"
+         id="tspan10-3"
+         x="42.064835"
+         y="20.615065"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.403162"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New';fill:#216778;fill-opacity:1;stroke-width:0.403162"
+   id="tspan877">const</tspan> <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New';fill:#37abc8;fill-opacity:1;stroke-width:0.403162"
+   id="tspan883">message</tspan><tspan
+   id="tspan1616"
+   style="fill:#374548;fill-opacity:1;stroke-width:0.403162"> = `</tspan></tspan><tspan
+         id="tspan1238"
+         sodipodi:role="line"
+         x="42.064835"
+         y="41.137012"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.403162"><tspan
+           id="tspan1240"
+           style="fill:#374548;fill-opacity:1;stroke-width:0.403162">1001110110001001000111011011000011001001011010010110000100</tspan></tspan><tspan
+         id="tspan1242"
+         sodipodi:role="line"
+         x="42.064835"
+         y="61.658962"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New';fill:#374548;fill-opacity:1;stroke-width:0.403162">1101011001110110001001010111010001100011000001100100010001</tspan><tspan
+         id="tspan1246"
+         sodipodi:role="line"
+         x="42.064835"
+         y="82.180908"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New';fill:#374548;fill-opacity:1;stroke-width:0.403162">1101010110011110010100001101101100010100100111100101011001</tspan><tspan
+         id="tspan1250"
+         sodipodi:role="line"
+         x="42.064835"
+         y="102.70286"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New';fill:#374548;fill-opacity:1;stroke-width:0.403162">0101011100110101011110100100100101001000010010100111000001</tspan><tspan
+         id="tspan1254"
+         sodipodi:role="line"
+         x="42.064835"
+         y="123.22481"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New';fill:#374548;fill-opacity:1;stroke-width:0.403162">0110100011001001101000001100000110001101111001010000100110</tspan><tspan
+         id="tspan1258"
+         sodipodi:role="line"
+         x="42.064835"
+         y="143.74675"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New';fill:#374548;fill-opacity:1;stroke-width:0.403162">1000011000110110110101010101011001110110000101001000010101</tspan><tspan
+         id="tspan1262"
+         sodipodi:role="line"
+         x="42.064835"
+         y="164.26871"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New';fill:#374548;fill-opacity:1;stroke-width:0.403162">1001110100010110010101011100110100011001110110001101101101</tspan><tspan
+         id="tspan1266"
+         sodipodi:role="line"
+         x="42.064835"
+         y="184.79065"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New';fill:#374548;fill-opacity:1;stroke-width:0.403162">0110110001101110011000010100100001010010011110100100001101</tspan><tspan
+         id="tspan1270"
+         sodipodi:role="line"
+         x="42.064835"
+         y="205.31261"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New';fill:#374548;fill-opacity:1;stroke-width:0.403162">1010110011010101110110010010010100011100111001011101010101</tspan><tspan
+         id="tspan1274"
+         sodipodi:role="line"
+         x="42.064835"
+         y="225.83455"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New';fill:#374548;fill-opacity:1;stroke-width:0.403162">1010010100110100001001110000011000110111100101000010011100</tspan><tspan
+         id="tspan1278"
+         sodipodi:role="line"
+         x="42.064835"
+         y="246.35651"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New';fill:#374548;fill-opacity:1;stroke-width:0.403162">0001100010010001110111100001101100010110100011001001000110</tspan><tspan
+         id="tspan1282"
+         sodipodi:role="line"
+         x="42.064835"
+         y="266.87845"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New';fill:#374548;fill-opacity:1;stroke-width:0.403162">0111001101001001010001110011100101110101010010010100100001</tspan><tspan
+         id="tspan1286"
+         sodipodi:role="line"
+         x="42.064835"
+         y="287.40039"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New';fill:#374548;fill-opacity:1;stroke-width:0.403162">0011100011000001100010001100100111100001101100011000100110</tspan><tspan
+         id="tspan1290"
+         sodipodi:role="line"
+         x="42.064835"
+         y="307.92236"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New';fill:#374548;fill-opacity:1;stroke-width:0.403162">1001010000100111001101011001010101110011010101101011010000</tspan><tspan
+         id="tspan1294"
+         sodipodi:role="line"
+         x="42.064835"
+         y="328.44431"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New';fill:#374548;fill-opacity:1;stroke-width:0.403162">1101101011010100100110110001011010011011100101011001110101</tspan><tspan
+         id="tspan1298"
+         sodipodi:role="line"
+         x="42.064835"
+         y="348.96625"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New';fill:#374548;fill-opacity:1;stroke-width:0.403162">0101101001000011010000100011000001100001010001110101010101</tspan><tspan
+         id="tspan1302"
+         sodipodi:role="line"
+         x="42.064835"
+         y="369.48819"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New';fill:#374548;fill-opacity:1;stroke-width:0.403162">1001110110001101000111001110010111001101100001010101110100</tspan><tspan
+         id="tspan1306"
+         sodipodi:role="line"
+         x="42.064835"
+         y="390.01016"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New';fill:#374548;fill-opacity:1;stroke-width:0.403162">111001101100`</tspan></text>
+  </g>
+</svg>
